@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:UnityAsLibraryTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../Builds/Release/Unity-iPhone.xcodeproj">
+   </FileRef>
+</Workspace>
